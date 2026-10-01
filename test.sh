@@ -1,4 +1,4 @@
-hello echo
+echo hello
 echo "this is a test branch"
 echo "second branch works"
 git add test.sh
